@@ -1,0 +1,17 @@
+.footer{
+    margin: 0px 170px;
+    font-size: 18px;
+}
+.footer-content{
+    padding: 30px;
+}
+
+@media(max-width:768px){
+    .footer{
+        margin: 0px 50px;
+        text-align: center;
+    }
+    .footer-content{
+        padding: 30px;
+    }
+}
