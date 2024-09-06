@@ -11,7 +11,7 @@
 }
 .contact-title h1 {
   padding: 0px 30px;
-  font-size: 80px;
+  font-size: 50px;
   font-weight: 600;
 }
 .contact-title img {
@@ -26,7 +26,7 @@
   margin-bottom: 50px;
 }
 .contact-left h1 {
-  font-size: 80px;
+  font-size: 50px;
   font-weight: 700;
   background: linear-gradient(270deg, #df8908 80%, #b415ff 100%);
   background-clip: text;
@@ -38,7 +38,7 @@
 }
 .contact-right p {
   color: #d8d8d8;
-  font-size: 35px;
+  font-size: 30px;
   line-height: 50px;
 }
 .contact-details {
@@ -59,24 +59,28 @@
     }
     .contact-title h1{
         padding: 0;
-        font-size: 50px;
+        font-size: 30px;
         font-weight: 600;
     }
     .contact-title img{
-        width: 130px;
+        width: 100px;
         margin-right: -20px;
     }
     .contact-section{
         flex-direction: column;
+        gap: 60px;
     }
     .contact-left h1{
-        font-size: 54px;
+        font-size: 30px;
     }
     .contact-right{
         margin-top: 0;
     }
     .contact-right p{
-        font-size: 28px;
+        font-size: 18px;
+    }
+    .contact-detail img{
+      width: 32px;
     }
     .contact-details{
         gap: 18px;

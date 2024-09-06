@@ -11,7 +11,7 @@
 }
 .services-title h1{
     padding: 0px 30px;
-    font-size: 80px;
+    font-size: 50px;
     font-weight: 600;
 }
 .services-title img{
@@ -38,11 +38,11 @@
     transition: 0.4s;
 }
 .services-format h3{
-    font-size: 28px;
+    font-size: 24px;
     font-weight: 600;
 }
 .services-format h2{
-    font-size: 38px;
+    font-size: 24px;
     font-weight: 800;
     background: linear-gradient(270deg , #df8908 50%, #b415ff 100%);
     background-clip: text;
@@ -51,7 +51,7 @@
 }
 .services-format p{
     color: #d4d4d4;
-    font-size: 24px;
+    font-size: 18px;
     line-height: 40px;
     max-width: 300px;
 }
@@ -76,10 +76,10 @@
     }
     .services-title h1{
         padding: 0;
-        font-size: 50px;
+        font-size: 30px;
     }
     .services-title img{
-        width: 130px;
+        width: 100px;
         margin-right: -20px;
     }
     .services-format{
@@ -87,10 +87,10 @@
         padding: 32px;
     }
     .services-format h2{
-        font-size: 28px;
+        font-size: 24px;
     }
     .services-format p{
-        font-size: 18px;
+        font-size: 16px;
         line-height: 32px;
         max-width: 300px;
     }

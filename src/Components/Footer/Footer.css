@@ -1,6 +1,6 @@
 .footer{
     margin: 0px 170px;
-    font-size: 18px;
+    font-size: 16px;
 }
 .footer-content{
     padding: 30px;
@@ -8,10 +8,7 @@
 
 @media(max-width:768px){
     .footer{
-        margin: 0px 50px;
+        margin: 0px 40px;
         text-align: center;
-    }
-    .footer-content{
-        padding: 30px;
     }
 }
