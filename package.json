@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://sarangpachari.github.io/sarangpachari.github.io/",
+  "homepage": "https://sarangpachari.github.io/portfolio/",
   "type": "module",
   "scripts": {
     "dev": "vite",
